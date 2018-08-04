@@ -1,0 +1,17 @@
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\Tests\bin\Debug\Tests.dll
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\Tests\bin\Debug\Tests.pdb
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\Tests\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\Tests\obj\Debug\Tests.csproj.CoreCompileInputs.cache
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\Tests\obj\Debug\Tests.dll
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\Tests\obj\Debug\Tests.pdb
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\Tests\bin\Debug\SubtitlesResyncCore.exe
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\Tests\bin\Debug\SubtitlesResyncCore.pdb
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\Tests\bin\Debug\SubtitlesResyncCore.exe.config
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\Tests\obj\Debug\Tests.csproj.CopyComplete

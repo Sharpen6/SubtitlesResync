@@ -1,0 +1,7 @@
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\SubtitlesResyncCoreWeb\bin\Debug\SubtitlesResyncCore.exe.config
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\SubtitlesResyncCoreWeb\bin\Debug\SubtitlesResyncCore.exe
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\SubtitlesResyncCoreWeb\bin\Debug\SubtitlesResyncCore.pdb
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\SubtitlesResyncCoreWeb\obj\Debug\SubtitlesResyncCore.csproj.CoreCompileInputs.cache
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\SubtitlesResyncCoreWeb\obj\Debug\SubtitlesResyncCore.exe
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\SubtitlesResyncCoreWeb\obj\Debug\SubtitlesResyncCore.pdb
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\SubtitlesResyncCoreWeb\obj\Debug\SubtitlesResyncCore.csprojResolveAssemblyReference.cache

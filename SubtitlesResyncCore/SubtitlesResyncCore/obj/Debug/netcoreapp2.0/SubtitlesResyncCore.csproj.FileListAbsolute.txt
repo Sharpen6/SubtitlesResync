@@ -1,0 +1,11 @@
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\SubtitlesResyncCore\bin\Debug\netcoreapp2.0\SubtitlesResyncCore.deps.json
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\SubtitlesResyncCore\bin\Debug\netcoreapp2.0\SubtitlesResyncCore.runtimeconfig.json
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\SubtitlesResyncCore\bin\Debug\netcoreapp2.0\SubtitlesResyncCore.runtimeconfig.dev.json
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\SubtitlesResyncCore\bin\Debug\netcoreapp2.0\SubtitlesResyncCore.dll
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\SubtitlesResyncCore\bin\Debug\netcoreapp2.0\SubtitlesResyncCore.pdb
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\SubtitlesResyncCore\obj\Debug\netcoreapp2.0\SubtitlesResyncCore.csprojResolveAssemblyReference.cache
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\SubtitlesResyncCore\obj\Debug\netcoreapp2.0\SubtitlesResyncCore.csproj.CoreCompileInputs.cache
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\SubtitlesResyncCore\obj\Debug\netcoreapp2.0\SubtitlesResyncCore.AssemblyInfoInputs.cache
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\SubtitlesResyncCore\obj\Debug\netcoreapp2.0\SubtitlesResyncCore.AssemblyInfo.cs
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\SubtitlesResyncCore\obj\Debug\netcoreapp2.0\SubtitlesResyncCore.dll
+R:\Dropbox\Dropbox\Projects\SubtitlesResync\SubtitlesResyncCore\SubtitlesResyncCore\obj\Debug\netcoreapp2.0\SubtitlesResyncCore.pdb
